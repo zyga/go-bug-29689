@@ -1,0 +1,4 @@
+Usage:
+
+ go build
+ ./go-bug 1000
